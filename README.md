@@ -20,3 +20,5 @@ ___
 ### To get the new created component variant into our design, we go to Assets on the panel on the left => component variants, click and drag our component variant onto our design frame.
 
 #### Rullers and guidelines - Shift + R to get the rullers on top and left of the desing frame, click and drag to place a guide line.
+
+#### Holding Alt key when resising element makes the element resise, both, on left are right side
