@@ -15,4 +15,6 @@ ___
 
 ### To create a Component we select and element(s) and click on Create component button on the top of the screen window. Now if we duplica that element, any change applied to the master/initial component's element will transfer onto the duplicates of that component element
 
-### Component Variants
+### Component Variants - we can create a separate page for variants or a separe frame, and create component variants by clicking Create Variant inthe same top button whenre create compoents was before. We can create multiple variants of our component for, for example, active, default and hover state of out navbar link.
+#### In component variants, under text type options on the right, we should change Fixed Width to Auto Width, so that any future change of text lenght will not cause a break of text.
+### To get the new created component variant into our design, we go to Assets on the panel on the left => component variants, click and drag our component variant onto our design frame.
