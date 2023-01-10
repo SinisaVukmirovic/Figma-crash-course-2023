@@ -5,7 +5,7 @@ ___
 
 [Prototype link](https://www.figma.com/proto/nK37ihk53xVs2p1z9wcP7e/Figma-Crash-course?page-id=0%3A1&node-id=2%3A2&viewport=645%2C483%2C0.65&scaling=min-zoom)
 
-![Screenshot](https://github.com/SinisaVukmirovic/FIGMA-/blob/main/screenshot.png)
+![Screenshot](https://github.com/SinisaVukmirovic/Figma-crash-course-2023/blob/main/screenshot.png)
 ___
 
 ### Notes
@@ -30,4 +30,4 @@ ___
 
 #### Rullers and guidelines - Shift + R to get the rullers on top and left of the desing frame, click and drag to place a guide line.
 
-#### Holding Alt key when resising element makes the element resise, both, on left are right side
+#### Holding Alt key when resising element makes the element resise, both, on left and right side
