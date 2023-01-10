@@ -1,5 +1,14 @@
-## Figma Crash Course
+## Figma Crash Course 2023
 ___
+
+[Design files](https://www.figma.com/file/nK37ihk53xVs2p1z9wcP7e/Figma-Crash-course?node-id=2%3A2&t=7jqn7IF1UpTgeF5A-1)
+
+[Prototype link](https://www.figma.com/proto/nK37ihk53xVs2p1z9wcP7e/Figma-Crash-course?page-id=0%3A1&node-id=2%3A2&viewport=645%2C483%2C0.65&scaling=min-zoom)
+
+![Screenshot](https://github.com/SinisaVukmirovic/FIGMA-/blob/main/screenshot.png)
+___
+
+### Notes
 
 #### Moving around - hold down space key and left mouse to drag around
 
@@ -22,8 +31,3 @@ ___
 #### Rullers and guidelines - Shift + R to get the rullers on top and left of the desing frame, click and drag to place a guide line.
 
 #### Holding Alt key when resising element makes the element resise, both, on left are right side
-
-
-prototype - https://www.figma.com/file/nK37ihk53xVs2p1z9wcP7e/Figma-Crash-course?node-id=2%3A2&t=7jqn7IF1UpTgeF5A-1
-
-demo - https://www.figma.com/proto/nK37ihk53xVs2p1z9wcP7e/Figma-Crash-course?page-id=0%3A1&node-id=2%3A2&viewport=645%2C483%2C0.65&scaling=min-zoom
